@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "figlet": "^1.7.0"
+  },
+  "name": "figletdir",
+  "version": "1.0.0",
+  "description": "this is first project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC"
+}
