@@ -1,1 +1,2 @@
-# BACKEND
+Welcome to the Backend Learning repository! This repository is a personal collection of code snippets and notes created while learning backend development. It serves as a comprehensive guide and reference for anyone interested in mastering backend technologies.
+This repository documents my journey of learning backend development, covering various languages, frameworks, and tools. Each section contains code examples, explanations, and project implementations to help reinforce the concepts learned.
